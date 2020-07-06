@@ -1,0 +1,4 @@
+#Mon Jul 06 13:02:32 CDT 2020
+base.0=C\:\\Users\\srisu\\AndroidStudioProjects\\magic-8-ball-flutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
